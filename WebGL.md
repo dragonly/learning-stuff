@@ -1,5 +1,5 @@
-# WebGL
-***
+WebGL
+===
 
 ### Just a collection when I'm interested in WebGL
 
