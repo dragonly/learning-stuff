@@ -1,5 +1,5 @@
-WebGL
-=====
+# WebGL
+***
 
 ### Just a collection when I'm interested in WebGL
 
@@ -9,7 +9,7 @@ WebGL
 
 * [HAKIM](http://hakim.se/) | A god damn wonderful personal blog by a Swedish engineer
 
-***
+===
 
 [![space craft](http://alteredqualia.com/img/tn/nebula.jpg)](http://alteredqualia.com/xg/examples/deferred_particles_nebula.html)
 [![indian](http://alteredqualia.com/img/tn/head-paint.jpg)](http://alteredqualia.com/xg/examples/deferred_skin_paint.html)
